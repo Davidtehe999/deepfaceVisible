@@ -73,6 +73,6 @@ except IOError:
 
 # 识别人脸
 # analyzeImg('facetemp.jpg')
-obj = 'langjie1.jpg'
+obj = 'lastshoot.jpeg'
 detectFace(obj, analyzeFace=True)
 
